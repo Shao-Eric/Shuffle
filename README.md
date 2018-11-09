@@ -1,6 +1,14 @@
 #### Built With:
 React.js (Web App), React Native (Mobile App), Node.js, Socket.io, MongoDB Stitch, Heroku
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20850250/48242763-b971f980-e3aa-11e8-8f73-db42ff7ccb49.png">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20850250/48242837-081f9380-e3ab-11e8-8aed-008b1e79d804.png" width="400px"></img>
+<img src="https://user-images.githubusercontent.com/20850250/48242838-08b82a00-e3ab-11e8-9027-1d046faa4c4e.png" width="400px"></img>
+</p>
+
 #### Inspiration:
 Hosts of social events/parties create their own music playlists and ultimately control the overall mood of the event. By giving attendees a platform to express their song preferences, more people end up feeling satisfied and content with the event.
 
