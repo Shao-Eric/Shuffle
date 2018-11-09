@@ -1,3 +1,6 @@
+#### Built With:
+React.js (Web App), React Native (Mobile App), Node.js, Socket.io, MongoDB Stitch, Heroku
+
 #### Inspiration:
 Hosts of social events/parties create their own music playlists and ultimately control the overall mood of the event. By giving attendees a platform to express their song preferences, more people end up feeling satisfied and content with the event.
 
@@ -19,5 +22,4 @@ All team members were able learn and experiment with a new tool/technology.
 #### What's next for Shuffle:
 Integration with various music streaming services such as Spotify or Apple Music. Ability to filter playlists by mood using machine learning.
 
-#### Built With:
-React.js (Web App), React Native (Mobile App), Node.js, Socket.io, MongoDB Stitch, Heroku
+
